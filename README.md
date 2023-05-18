@@ -22,6 +22,9 @@ To run a backend Python file, type `python3 app.py`, if your Python file is name
 
 A button should appear to click: _Open Preview_ or _Open Browser_.
 
+To run a Django app:
+`python3 manage.py runserver`
+
 In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
 To log into the Heroku toolbelt CLI:
