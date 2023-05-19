@@ -30,7 +30,10 @@ SECRET_KEY = "hellodjango"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-janet-dev-ci-hello-djang-vmokr5a5ys.us2.codeanyapp.com']
+ALLOWED_HOSTS = [
+    '8000-janet-dev-ci-hello-djang-vmokr5a5ys.us2.codeanyapp.com',
+    'jxd-django-todo-app.herokuapp.com'
+]
 
 
 # Application definition
